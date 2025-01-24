@@ -1,0 +1,5 @@
+﻿  Drink.cpp
+C:\Users\hiruw\Seneca\Seneca CPA\Semester 2\OOP\Milestone 3\Drink.cpp(64,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ms3.cpp
+  Generating Code...
+  Milestone 3.vcxproj -> C:\Users\hiruw\Seneca\Seneca CPA\Semester 2\OOP\Milestone 3\x64\Debug\Milestone 3.exe

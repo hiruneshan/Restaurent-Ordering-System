@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFC0313-C7D9-4AE1-AA71-673F18128EEC}|Milestone 3.vcxproj|C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\Food.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DFC0313-C7D9-4AE1-AA71-673F18128EEC}|Milestone 3.vcxproj|solutionrelative:Food.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFC0313-C7D9-4AE1-AA71-673F18128EEC}|Milestone 3.vcxproj|C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\Drink.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DFC0313-C7D9-4AE1-AA71-673F18128EEC}|Milestone 3.vcxproj|solutionrelative:Drink.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFC0313-C7D9-4AE1-AA71-673F18128EEC}|Milestone 3.vcxproj|C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DFC0313-C7D9-4AE1-AA71-673F18128EEC}|Milestone 3.vcxproj|solutionrelative:Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFC0313-C7D9-4AE1-AA71-673F18128EEC}|Milestone 3.vcxproj|C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\Food.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DFC0313-C7D9-4AE1-AA71-673F18128EEC}|Milestone 3.vcxproj|solutionrelative:Food.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFC0313-C7D9-4AE1-AA71-673F18128EEC}|Milestone 3.vcxproj|C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\Billable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DFC0313-C7D9-4AE1-AA71-673F18128EEC}|Milestone 3.vcxproj|solutionrelative:Billable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFC0313-C7D9-4AE1-AA71-673F18128EEC}|Milestone 3.vcxproj|C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\Drink.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DFC0313-C7D9-4AE1-AA71-673F18128EEC}|Milestone 3.vcxproj|solutionrelative:Drink.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFC0313-C7D9-4AE1-AA71-673F18128EEC}|Milestone 3.vcxproj|C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\ms3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DFC0313-C7D9-4AE1-AA71-673F18128EEC}|Milestone 3.vcxproj|solutionrelative:ms3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFC0313-C7D9-4AE1-AA71-673F18128EEC}|Milestone 3.vcxproj|C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\Billable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DFC0313-C7D9-4AE1-AA71-673F18128EEC}|Milestone 3.vcxproj|solutionrelative:Billable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFC0313-C7D9-4AE1-AA71-673F18128EEC}|Milestone 3.vcxproj|C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DFC0313-C7D9-4AE1-AA71-673F18128EEC}|Milestone 3.vcxproj|solutionrelative:Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFC0313-C7D9-4AE1-AA71-673F18128EEC}|Milestone 3.vcxproj|C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\drinks.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5DFC0313-C7D9-4AE1-AA71-673F18128EEC}|Milestone 3.vcxproj|solutionrelative:drinks.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFC0313-C7D9-4AE1-AA71-673F18128EEC}|Milestone 3.vcxproj|C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\drinkout.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5DFC0313-C7D9-4AE1-AA71-673F18128EEC}|Milestone 3.vcxproj|solutionrelative:drinkout.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFC0313-C7D9-4AE1-AA71-673F18128EEC}|Milestone 3.vcxproj|C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\foodout.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5DFC0313-C7D9-4AE1-AA71-673F18128EEC}|Milestone 3.vcxproj|solutionrelative:foodout.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFC0313-C7D9-4AE1-AA71-673F18128EEC}|Milestone 3.vcxproj|C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\foods.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5DFC0313-C7D9-4AE1-AA71-673F18128EEC}|Milestone 3.vcxproj|solutionrelative:foods.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFC0313-C7D9-4AE1-AA71-673F18128EEC}|Milestone 3.vcxproj|C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DFC0313-C7D9-4AE1-AA71-673F18128EEC}|Milestone 3.vcxproj|solutionrelative:Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 2\\ms2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFC0313-C7D9-4AE1-AA71-673F18128EEC}|Milestone 3.vcxproj|C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DFC0313-C7D9-4AE1-AA71-673F18128EEC}|Milestone 3.vcxproj|solutionrelative:Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop 07\\Professor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Billable.cpp",
+              "DocumentMoniker": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\Billable.cpp",
+              "RelativeDocumentMoniker": "Billable.cpp",
+              "ToolTip": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\Billable.cpp",
+              "RelativeToolTip": "Billable.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T00:42:27.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ms3.cpp",
+              "DocumentMoniker": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\ms3.cpp",
+              "RelativeDocumentMoniker": "ms3.cpp",
+              "ToolTip": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\ms3.cpp",
+              "RelativeToolTip": "ms3.cpp",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAcwFYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T23:38:25.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Drink.h",
+              "DocumentMoniker": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\Drink.h",
+              "RelativeDocumentMoniker": "Drink.h",
+              "ToolTip": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\Drink.h",
+              "RelativeToolTip": "Drink.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-19T01:48:45.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Food.cpp",
+              "DocumentMoniker": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\Food.cpp",
+              "RelativeDocumentMoniker": "Food.cpp",
+              "ToolTip": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\Food.cpp",
+              "RelativeToolTip": "Food.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T00:54:17.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Billable.h",
+              "DocumentMoniker": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\Billable.h",
+              "RelativeDocumentMoniker": "Billable.h",
+              "ToolTip": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\Billable.h",
+              "RelativeToolTip": "Billable.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-19T00:42:04.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Food.h",
+              "DocumentMoniker": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\Food.h",
+              "RelativeDocumentMoniker": "Food.h",
+              "ToolTip": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\Food.h",
+              "RelativeToolTip": "Food.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T00:54:41.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utils.cpp",
+              "DocumentMoniker": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\Utils.cpp",
+              "RelativeDocumentMoniker": "Utils.cpp",
+              "ToolTip": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\Utils.cpp",
+              "RelativeToolTip": "Utils.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T00:50:28.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Drink.cpp",
+              "DocumentMoniker": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\Drink.cpp",
+              "RelativeDocumentMoniker": "Drink.cpp",
+              "ToolTip": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\Drink.cpp",
+              "RelativeToolTip": "Drink.cpp",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAABkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T01:48:25.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "foods.csv",
+              "DocumentMoniker": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\foods.csv",
+              "RelativeDocumentMoniker": "foods.csv",
+              "ToolTip": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\foods.csv",
+              "RelativeToolTip": "foods.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-11-20T23:43:08.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "drinkout.csv",
+              "DocumentMoniker": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\drinkout.csv",
+              "RelativeDocumentMoniker": "drinkout.csv",
+              "ToolTip": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\drinkout.csv",
+              "RelativeToolTip": "drinkout.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-11-20T23:40:04.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "drinks.csv",
+              "DocumentMoniker": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\drinks.csv",
+              "RelativeDocumentMoniker": "drinks.csv",
+              "ToolTip": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\drinks.csv",
+              "RelativeToolTip": "drinks.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-11-20T23:41:23.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Menu.h",
+              "DocumentMoniker": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\Menu.h",
+              "RelativeDocumentMoniker": "Menu.h",
+              "ToolTip": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\Menu.h",
+              "RelativeToolTip": "Menu.h",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-22T19:37:34.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ms2.cpp",
+              "DocumentMoniker": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 2\\ms2.cpp",
+              "RelativeDocumentMoniker": "..\\Milestone 2\\ms2.cpp",
+              "ToolTip": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 2\\ms2.cpp",
+              "RelativeToolTip": "..\\Milestone 2\\ms2.cpp",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-22T19:33:07.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "foodout.csv",
+              "DocumentMoniker": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\foodout.csv",
+              "RelativeDocumentMoniker": "foodout.csv",
+              "ToolTip": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\foodout.csv",
+              "RelativeToolTip": "foodout.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-11-22T23:52:38.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Menu.cpp",
+              "DocumentMoniker": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\Menu.cpp",
+              "RelativeDocumentMoniker": "Menu.cpp",
+              "ToolTip": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\Menu.cpp",
+              "RelativeToolTip": "Menu.cpp",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAMwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-22T19:37:22.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Professor.cpp",
+              "DocumentMoniker": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop 07\\Professor.cpp",
+              "RelativeDocumentMoniker": "..\\workshop 07\\Professor.cpp",
+              "ToolTip": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop 07\\Professor.cpp",
+              "RelativeToolTip": "..\\workshop 07\\Professor.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-22T18:32:04.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Utils.h",
+              "DocumentMoniker": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\Utils.h",
+              "RelativeDocumentMoniker": "Utils.h",
+              "ToolTip": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\Milestone 3\\Utils.h",
+              "RelativeToolTip": "Utils.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-19T00:51:02.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
