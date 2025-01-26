@@ -1,0 +1,5 @@
+﻿  Ordering.cpp
+C:\Users\hiruw\Seneca\Seneca CPA\Semester 2\OOP\Milestone 4\Ordering.cpp(132,22): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\hiruw\Seneca\Seneca CPA\Semester 2\OOP\Milestone 4\Ordering.cpp(133,21): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\hiruw\Seneca\Seneca CPA\Semester 2\OOP\Milestone 4\Ordering.cpp(229,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Milestone 4.vcxproj -> C:\Users\hiruw\Seneca\Seneca CPA\Semester 2\OOP\Milestone 4\x64\Debug\Milestone 4.exe
